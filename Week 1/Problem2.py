@@ -1,0 +1,10 @@
+course=("Intro to python")
+print(course)
+student=("Davit Khudaverdyan")
+print(student)
+nickname=("Financial analyst")
+print(nickname)
+grade=(17)
+print(grade)
+python_expert = True
+print(python_expert)
